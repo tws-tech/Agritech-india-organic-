@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Agritech India Organic">
+  <circle cx="60" cy="60" r="56" fill="#1F5130"/>
+  <circle cx="60" cy="60" r="49" fill="none" stroke="#E8B33C" stroke-width="2.5"/>
+  <!-- soil -->
+  <path d="M22 82 Q60 70 98 82 L98 86 Q60 96 22 86 Z" fill="#7A4E2D"/>
+  <!-- stem -->
+  <path d="M60 82 C60 70 60 58 60 44" stroke="#F7F3E8" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- left leaf -->
+  <path d="M60 62 C46 64 34 56 32 42 C46 40 58 48 60 62 Z" fill="#7BC043"/>
+  <!-- right leaf -->
+  <path d="M60 52 C62 36 74 26 90 26 C90 42 78 52 60 52 Z" fill="#A6D96A"/>
+  <!-- seed / sun -->
+  <circle cx="60" cy="38" r="5" fill="#E8B33C"/>
+</svg>
